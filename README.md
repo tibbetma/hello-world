@@ -1,2 +1,4 @@
 # hello-world
 First github project
+
+I have a BS in Electrical Engineering from Rensselaer Polytechnic Institute and an MBA from the Leeds School of Business at the University of Colorado in Boulder. I have worked as a software engineer and engineering leader providing solutions based on networking, storage and cellular technologies. I transitioned into engineering management while at Sun microsystems and led teams providing solutions for both block and file based storage systems. I moved on from Sun to lead engineering teams and organizations at Dell, AMD, Storspeed and LGS Innovations. Over that time I honed my skills at Fortune 500 and startup companies to lead large multi-discipline teams and organizations as well as cross business partnering and customer engagement and discovered that I really enjoyed the business challenges posed by leading teams of engineers to solve the most difficult of engineering problems. Also, I hold an active TS/SCI clearance. 
